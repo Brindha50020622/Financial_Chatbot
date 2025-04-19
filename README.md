@@ -101,5 +101,14 @@ ResponseGenerator Class
     
     •	Logging (tracks errors, user queries)
 
+
+
+    ![image](https://github.com/user-attachments/assets/35b8a7b1-0c9d-4979-ab86-b66f64c761ed)
+
+
+    ![image](https://github.com/user-attachments/assets/688de1cb-1cb6-4bf9-8196-ede240c2c3f9)
+
+
+
    
 
